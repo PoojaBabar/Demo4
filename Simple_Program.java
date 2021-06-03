@@ -6,5 +6,6 @@ public class Simple_Program.java
 	   int b=34;
 	   int c=a+b;
 	   System.out.println("sum: "+c);
+	   int d=0;
 	}
 }
